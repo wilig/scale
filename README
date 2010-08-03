@@ -1,6 +1,8 @@
 # scale
 
-<a href="http://will.groppe.us/day/2010/08/03">A simple performance test using Clojure, Compojure, and Postgres.</a>
+A simple performance test using Clojure, Compojure, and Postgres.
+
+http://will.groppe.us/day/2010/08/03
 
 Copyright (C) 2010 William Groppe
 
