@@ -1,17 +1,7 @@
 # scale
 
-FIXME: write description
+<a href="http://will.groppe.us/day/2010/08/03">A simple performance test using Clojure, Compojure, and Postgres.</a>
 
-## Usage
-
-FIXME: write
-
-## Installation
-
-FIXME: write
-
-## License
-
-Copyright (C) 2010 FIXME
+Copyright (C) 2010 William Groppe
 
 Distributed under the Eclipse Public License, the same as Clojure.
