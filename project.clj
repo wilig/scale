@@ -1,5 +1,5 @@
 (defproject scale "0.0.1-SNAPSHOT"
-  :description "FIXME: write"
+  :description "Simple performance test using Clojure, Compojure and Postgres"
   :dependencies [[org.clojure/clojure "1.2.0-beta1"]
                  [org.clojure/clojure-contrib "1.2.0-beta1"]
 		 [compojure "0.4.1"]
